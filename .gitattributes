@@ -27,3 +27,4 @@ fonts/Helvetica-Oblique.ttf filter=lfs diff=lfs merge=lfs -text
 fonts/Helvetica.ttf filter=lfs diff=lfs merge=lfs -text
 fonts/SF-Compact-Rounded-Regular.woff2 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
